@@ -6,7 +6,7 @@
 <div>
    <a href="https://github.com/liberal-henrique">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=liberal-henrique&theme=transparent&show_icons=true" />
-   <img height="160em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&bg_color=ffffff00"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&show_icons=true&theme=transparent"/>
 </div>
 <div style="display: inline-block"><br>
   
