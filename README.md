@@ -3,11 +3,13 @@
 - 📚 Student in [42Lisbon](https://www.42lisboa.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luiz-henrique-liberal-1743851a0/) - (luiz.liberal.souza@gmail.com)
 
-<div>
+<div style="width: 100%">
+   <br>
    <a href="https://github.com/liberal-henrique">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liberal-henrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+   <br />
 <div style="display: inline-block"><br>
   
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
