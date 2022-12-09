@@ -5,8 +5,8 @@
 
 <div>
    <a href="https://github.com/liberal-henrique">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=liberal-henrique&theme=transparent&show_icons=true" />
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&show_icons=true&theme=transparent"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=liberal-henrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline-block"><br>
   
@@ -21,6 +21,15 @@
 </div>
 
 <!--
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=liberal-henrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&layout=compact&langs_count=7&theme=dracula"/>
+
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=liberal-henrique&theme=transparent&show_icons=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&show_icons=true&theme=transparent"/>
+
+
 **liberal-henrique/liberal-henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github-readme-stats.vercel.app/api/top-langs/?username=liberal-henrique&bg_color=ffffff00
 
