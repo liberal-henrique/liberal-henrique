@@ -1,5 +1,4 @@
 ### Hello! I'm Henrique Liberal
-- 💻 Working as a Front-end developer
 - 📚 Student in [42Lisbon](https://www.42lisboa.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luiz-henrique-liberal-1743851a0/) - (luiz.liberal.souza@gmail.com)
 
