@@ -1,5 +1,6 @@
 ### Hello! I'm Henrique Liberal
-- 📚 Student in [42Lisbon](https://www.42lisboa.com/)
+- 📚 Student at [42Lisbon](https://www.42lisboa.com/)
+- 💼 Working at **Critical Techworks**  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luiz-henrique-liberal-1743851a0/) - (luiz.liberal.souza@gmail.com)
 
 <!---
